@@ -1,4 +1,8 @@
 # hybrid-contract
+visit this link to know more
+https://docs.google.com/document/d/1OBOU4u1zY5ydL_asQPFIPaqNff5ZGv1SNY1_ObLz1Ko/edit?usp=sharing
+
+
 Chainlink Data Feeds are the quickest way to connect your smart contracts to the real-world market prices of assets. 
 For example, one use for data feeds is to enable smart contracts to retrieve the latest pricing data of an asset in a single call.
 
