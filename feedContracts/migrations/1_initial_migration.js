@@ -4,4 +4,6 @@ const MultipleResponse = artifacts.require("MultipleResponse")
 
 module.exports = function (deployer) {
   deployer.deploy(Feed);
+  deployer.deploy(SingleResponse);
+  deployer.deploy(MultipleResponse);
 };
