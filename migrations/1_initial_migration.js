@@ -1,5 +1,5 @@
-const Hybrid = artifacts.require("Hybrid");
+const Feed = artifacts.require("Feed");
 
 module.exports = function (deployer) {
-  deployer.deploy(Hybrid);
+  deployer.deploy(Feed);
 };
